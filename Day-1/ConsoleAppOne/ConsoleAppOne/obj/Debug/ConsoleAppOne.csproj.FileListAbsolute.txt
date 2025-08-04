@@ -1,0 +1,7 @@
+D:\Ascendion-B3\Day-1\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.exe.config
+D:\Ascendion-B3\Day-1\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.exe
+D:\Ascendion-B3\Day-1\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.pdb
+D:\Ascendion-B3\Day-1\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.csproj.AssemblyReference.cache
+D:\Ascendion-B3\Day-1\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.csproj.CoreCompileInputs.cache
+D:\Ascendion-B3\Day-1\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.exe
+D:\Ascendion-B3\Day-1\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.pdb

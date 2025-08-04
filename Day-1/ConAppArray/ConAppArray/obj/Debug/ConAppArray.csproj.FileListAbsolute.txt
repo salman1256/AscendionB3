@@ -1,0 +1,7 @@
+D:\Ascendion-B3\Day-1\ConAppArray\ConAppArray\bin\Debug\ConAppArray.exe.config
+D:\Ascendion-B3\Day-1\ConAppArray\ConAppArray\bin\Debug\ConAppArray.exe
+D:\Ascendion-B3\Day-1\ConAppArray\ConAppArray\bin\Debug\ConAppArray.pdb
+D:\Ascendion-B3\Day-1\ConAppArray\ConAppArray\obj\Debug\ConAppArray.csproj.AssemblyReference.cache
+D:\Ascendion-B3\Day-1\ConAppArray\ConAppArray\obj\Debug\ConAppArray.csproj.CoreCompileInputs.cache
+D:\Ascendion-B3\Day-1\ConAppArray\ConAppArray\obj\Debug\ConAppArray.exe
+D:\Ascendion-B3\Day-1\ConAppArray\ConAppArray\obj\Debug\ConAppArray.pdb

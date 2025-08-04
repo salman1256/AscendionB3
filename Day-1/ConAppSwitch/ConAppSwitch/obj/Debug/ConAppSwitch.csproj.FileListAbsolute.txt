@@ -1,0 +1,7 @@
+D:\Ascendion-B3\Day-1\ConAppSwitch\ConAppSwitch\bin\Debug\ConAppSwitch.exe.config
+D:\Ascendion-B3\Day-1\ConAppSwitch\ConAppSwitch\bin\Debug\ConAppSwitch.exe
+D:\Ascendion-B3\Day-1\ConAppSwitch\ConAppSwitch\bin\Debug\ConAppSwitch.pdb
+D:\Ascendion-B3\Day-1\ConAppSwitch\ConAppSwitch\obj\Debug\ConAppSwitch.csproj.AssemblyReference.cache
+D:\Ascendion-B3\Day-1\ConAppSwitch\ConAppSwitch\obj\Debug\ConAppSwitch.csproj.CoreCompileInputs.cache
+D:\Ascendion-B3\Day-1\ConAppSwitch\ConAppSwitch\obj\Debug\ConAppSwitch.exe
+D:\Ascendion-B3\Day-1\ConAppSwitch\ConAppSwitch\obj\Debug\ConAppSwitch.pdb
