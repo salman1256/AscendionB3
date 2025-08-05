@@ -1,0 +1,7 @@
+D:\Ascendion-B3\Day-2\ConAppMethodParameters\ConAppMethodParameters\bin\Debug\ConAppMethodParameters.exe.config
+D:\Ascendion-B3\Day-2\ConAppMethodParameters\ConAppMethodParameters\bin\Debug\ConAppMethodParameters.exe
+D:\Ascendion-B3\Day-2\ConAppMethodParameters\ConAppMethodParameters\bin\Debug\ConAppMethodParameters.pdb
+D:\Ascendion-B3\Day-2\ConAppMethodParameters\ConAppMethodParameters\obj\Debug\ConAppMethodParameters.csproj.AssemblyReference.cache
+D:\Ascendion-B3\Day-2\ConAppMethodParameters\ConAppMethodParameters\obj\Debug\ConAppMethodParameters.csproj.CoreCompileInputs.cache
+D:\Ascendion-B3\Day-2\ConAppMethodParameters\ConAppMethodParameters\obj\Debug\ConAppMethodParameters.exe
+D:\Ascendion-B3\Day-2\ConAppMethodParameters\ConAppMethodParameters\obj\Debug\ConAppMethodParameters.pdb

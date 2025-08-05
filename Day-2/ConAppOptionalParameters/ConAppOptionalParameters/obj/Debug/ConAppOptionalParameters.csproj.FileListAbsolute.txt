@@ -1,0 +1,7 @@
+D:\Ascendion-B3\Day-2\ConAppOptionalParameters\ConAppOptionalParameters\bin\Debug\ConAppOptionalParameters.exe.config
+D:\Ascendion-B3\Day-2\ConAppOptionalParameters\ConAppOptionalParameters\bin\Debug\ConAppOptionalParameters.exe
+D:\Ascendion-B3\Day-2\ConAppOptionalParameters\ConAppOptionalParameters\bin\Debug\ConAppOptionalParameters.pdb
+D:\Ascendion-B3\Day-2\ConAppOptionalParameters\ConAppOptionalParameters\obj\Debug\ConAppOptionalParameters.csproj.AssemblyReference.cache
+D:\Ascendion-B3\Day-2\ConAppOptionalParameters\ConAppOptionalParameters\obj\Debug\ConAppOptionalParameters.csproj.CoreCompileInputs.cache
+D:\Ascendion-B3\Day-2\ConAppOptionalParameters\ConAppOptionalParameters\obj\Debug\ConAppOptionalParameters.exe
+D:\Ascendion-B3\Day-2\ConAppOptionalParameters\ConAppOptionalParameters\obj\Debug\ConAppOptionalParameters.pdb
