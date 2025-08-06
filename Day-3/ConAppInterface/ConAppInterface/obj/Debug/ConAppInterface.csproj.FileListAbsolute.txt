@@ -1,0 +1,7 @@
+D:\Ascendion-B3\Day-3\ConAppInterface\ConAppInterface\bin\Debug\ConAppInterface.exe.config
+D:\Ascendion-B3\Day-3\ConAppInterface\ConAppInterface\bin\Debug\ConAppInterface.exe
+D:\Ascendion-B3\Day-3\ConAppInterface\ConAppInterface\bin\Debug\ConAppInterface.pdb
+D:\Ascendion-B3\Day-3\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.csproj.AssemblyReference.cache
+D:\Ascendion-B3\Day-3\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.csproj.CoreCompileInputs.cache
+D:\Ascendion-B3\Day-3\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.exe
+D:\Ascendion-B3\Day-3\ConAppInterface\ConAppInterface\obj\Debug\ConAppInterface.pdb

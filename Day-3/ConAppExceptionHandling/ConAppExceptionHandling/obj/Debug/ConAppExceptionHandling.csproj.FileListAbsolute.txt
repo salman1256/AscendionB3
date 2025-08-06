@@ -1,0 +1,7 @@
+D:\Ascendion-B3\Day-3\ConAppExceptionHandling\ConAppExceptionHandling\bin\Debug\ConAppExceptionHandling.exe.config
+D:\Ascendion-B3\Day-3\ConAppExceptionHandling\ConAppExceptionHandling\bin\Debug\ConAppExceptionHandling.exe
+D:\Ascendion-B3\Day-3\ConAppExceptionHandling\ConAppExceptionHandling\bin\Debug\ConAppExceptionHandling.pdb
+D:\Ascendion-B3\Day-3\ConAppExceptionHandling\ConAppExceptionHandling\obj\Debug\ConAppExceptionHandling.csproj.AssemblyReference.cache
+D:\Ascendion-B3\Day-3\ConAppExceptionHandling\ConAppExceptionHandling\obj\Debug\ConAppExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Ascendion-B3\Day-3\ConAppExceptionHandling\ConAppExceptionHandling\obj\Debug\ConAppExceptionHandling.exe
+D:\Ascendion-B3\Day-3\ConAppExceptionHandling\ConAppExceptionHandling\obj\Debug\ConAppExceptionHandling.pdb

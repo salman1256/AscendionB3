@@ -1,0 +1,7 @@
+D:\Ascendion-B3\Day-3\ConAppAbstractExample\ConAppAbstractExample\bin\Debug\ConAppAbstractExample.exe.config
+D:\Ascendion-B3\Day-3\ConAppAbstractExample\ConAppAbstractExample\bin\Debug\ConAppAbstractExample.exe
+D:\Ascendion-B3\Day-3\ConAppAbstractExample\ConAppAbstractExample\bin\Debug\ConAppAbstractExample.pdb
+D:\Ascendion-B3\Day-3\ConAppAbstractExample\ConAppAbstractExample\obj\Debug\ConAppAbstractExample.csproj.AssemblyReference.cache
+D:\Ascendion-B3\Day-3\ConAppAbstractExample\ConAppAbstractExample\obj\Debug\ConAppAbstractExample.csproj.CoreCompileInputs.cache
+D:\Ascendion-B3\Day-3\ConAppAbstractExample\ConAppAbstractExample\obj\Debug\ConAppAbstractExample.exe
+D:\Ascendion-B3\Day-3\ConAppAbstractExample\ConAppAbstractExample\obj\Debug\ConAppAbstractExample.pdb

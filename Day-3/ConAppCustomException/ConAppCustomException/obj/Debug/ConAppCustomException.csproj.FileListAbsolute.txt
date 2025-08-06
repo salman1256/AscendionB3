@@ -1,0 +1,7 @@
+D:\Genpact-B5\Day-7\ConAppCustomException\ConAppCustomException\bin\Debug\ConAppCustomException.exe.config
+D:\Genpact-B5\Day-7\ConAppCustomException\ConAppCustomException\bin\Debug\ConAppCustomException.exe
+D:\Genpact-B5\Day-7\ConAppCustomException\ConAppCustomException\bin\Debug\ConAppCustomException.pdb
+D:\Genpact-B5\Day-7\ConAppCustomException\ConAppCustomException\obj\Debug\ConAppCustomException.csproj.AssemblyReference.cache
+D:\Genpact-B5\Day-7\ConAppCustomException\ConAppCustomException\obj\Debug\ConAppCustomException.csproj.CoreCompileInputs.cache
+D:\Genpact-B5\Day-7\ConAppCustomException\ConAppCustomException\obj\Debug\ConAppCustomException.exe
+D:\Genpact-B5\Day-7\ConAppCustomException\ConAppCustomException\obj\Debug\ConAppCustomException.pdb
